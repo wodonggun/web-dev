@@ -14,6 +14,8 @@
   </body>
 </html>
 ```
+  
+  
 
 - tag 선택자
 ```HTML
@@ -23,7 +25,8 @@ li{
     text-decoration:underline;
     }
 ```
-
+  
+  
 
 - id 선택자
 ```HTML
@@ -31,7 +34,8 @@ li{
     font-size:50px;
   }
 ```
-
+  
+  
 - class 선택자
 ```HTML
 .hello{
