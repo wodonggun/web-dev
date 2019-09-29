@@ -1,1 +1,17 @@
-# CSS란?
+# CSS 삽입 방법
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h2{color:blue}
+    </style>
+  </head>
+  <body>
+    <h1 style="color:red">Hello World</h1>
+    <h2>Hello world</h2>
+  </body>
+</html>
+```
+
