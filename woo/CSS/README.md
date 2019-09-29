@@ -1,6 +1,6 @@
 # CSS 삽입 방법
 
-```
+```HTML
 <!DOCTYPE html>
 <html>
   <head>
