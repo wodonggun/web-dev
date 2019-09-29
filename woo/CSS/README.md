@@ -15,3 +15,19 @@
 </html>
 ```
 
+- tag 선택자
+```
+li{
+    color:red;
+    font-size: 12px;
+    text-decoration:underline;
+    }
+```
+
+
+- id 선택자
+```
+#select{
+    font-size:50px;
+  }
+```
