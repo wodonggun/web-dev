@@ -16,7 +16,7 @@
 ```
 
 - tag 선택자
-```
+```HTML
 li{
     color:red;
     font-size: 12px;
@@ -26,8 +26,16 @@ li{
 
 
 - id 선택자
-```
+```HTML
 #select{
     font-size:50px;
   }
 ```
+
+- class 선택자
+```HTML
+.hello{
+    font-size:100px;
+  }
+```
+
