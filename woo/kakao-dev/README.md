@@ -7,7 +7,7 @@
     <script type='text/javascript'>
       
           // 고유키값 - 건들지 마세요
-        Kakao.init('4f17250e631d465f5f83323791ce4ffa');
+        Kakao.init('고유키값');
           
         Kakao.Link.createDefaultButton({
           container: '#kakao-link-btn',
