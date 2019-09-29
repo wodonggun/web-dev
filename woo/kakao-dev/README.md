@@ -1,5 +1,5 @@
   # 초대장 샘플
-  ```
+  ```script
   <a id="kakao-link-btn" href="javascript:;">
     <img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png"/>
     </a>
