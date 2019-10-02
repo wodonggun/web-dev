@@ -1,4 +1,7 @@
   # 초대장 샘플
+  
+  ![image](https://user-images.githubusercontent.com/35188271/66035808-c9f10c80-e546-11e9-84fb-6ef3db40ee87.png)
+
   ```c
   <a id="kakao-link-btn" href="javascript:;">
     <img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png"/>
