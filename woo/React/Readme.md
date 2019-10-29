@@ -1,4 +1,7 @@
 # 리액트
+
+https://academy.nomadcoders.co/courses/mastering-react-16/lectures/4676466
+
 - 단순 View만을 위한 라이브러리
 - 반응 순서 : 데이터 -> 데이터 변경 -> View 변경 (단방향 방식)
 
