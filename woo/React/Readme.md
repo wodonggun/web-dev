@@ -3,11 +3,12 @@
 https://academy.nomadcoders.co/courses/mastering-react-16/lectures/4676466
 
 - 단순 View만을 위한 라이브러리
+
 - 반응 순서 : 데이터 -> 데이터 변경 -> View 변경 (단방향 방식)
 
+- 기본 redner 함수 : 모든 프레임워크, 라이브러리를 사용하든지 간에 맨 처음 UI를 보이기위해 꼭 필요한 함수.
 
-- redner함수 : 데이터가 업데이트 되면, 새로운 데이터를 가지고 View를 생성함 -> 기존 Virtual DOM에 리랜더링하고, 이전에 DOM과 비교하여
-다른 것만 실제 DOM에 갱신함.
+- render 함수 : 데이터가 업데이트 되면, 새로운 데이터를 가지고 `새로운 Virtual Dom(2)` 생성하여 리랜더링 -> `이전 Virtual Dom(1)`과 비교하여 다른 부분만 실제 DOM에 갱신함.
 
 
 
