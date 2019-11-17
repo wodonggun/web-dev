@@ -62,3 +62,15 @@ export default App;
 ```
 
 
+# props
+- 해당 컴포넌트는 부모에서 호출되어 부모의 변수가 적용됨.
+
+# props.children 
+
+- 컴포넌트 테그 사이의 내용을 보여줌.
+
+<MyComponent>`여기 내용을 보여줌.`</MyComponent>    
+
+
+
+# 
